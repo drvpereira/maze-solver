@@ -1,0 +1,1 @@
+java -javaagent:classmexer.jar -jar MazeSolver.jar
